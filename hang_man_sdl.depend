@@ -1,0 +1,48 @@
+# depslib dependency file v1.0
+1620443734 source:c:\users\manh son\desktop\hang_man_sdl\sdl_until.cpp
+	<iostream>
+	<vector>
+	<string>
+	<cstdlib>
+	<cctype>
+	<fstream>
+	<thread>
+	<chrono>
+	<windows.h>
+	<SDL.h>
+	<algorithm>
+	<SDL_image.h>
+	"sdl_until.h"
+	"SDL.h"
+	<SDL_mixer.h>
+
+1620442450 source:c:\users\manh son\desktop\hang_man_sdl\main.cpp
+	<iostream>
+	<SDL.h>
+	<SDL_image.h>
+	<vector>
+	<string>
+	<cstdlib>
+	<cctype>
+	<fstream>
+	<thread>
+	<chrono>
+	<algorithm>
+	"sdl_until.h"
+	<SDL_mixer.h>
+
+1620443734 c:\users\manh son\desktop\hang_man_sdl\sdl_until.h
+	<iostream>
+	<vector>
+	<string>
+	<cstdlib>
+	<cctype>
+	<fstream>
+	<thread>
+	<chrono>
+	<algorithm>
+	<SDL.h>
+	<windows.h>
+	<SDL_image.h>
+	<SDL_mixer.h>
+
