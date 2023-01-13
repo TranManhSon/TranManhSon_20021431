@@ -19,7 +19,6 @@ using namespace std;
 
 static Mix_Chunk* sound_guess = NULL;
 //static Mix_Chunk* sound_win = NULL;
-static Mix_Chunk* sound_lose = NULL;
 
 const char fileName[] = "file10Topic.txt";
 
