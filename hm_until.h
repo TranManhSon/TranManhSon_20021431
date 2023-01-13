@@ -27,7 +27,6 @@ struct Topic{
     string nameTopic;
     string wordListTopic[40];
     void readFile( ifstream &file);
-    void setNameTopic( string nameT);
 };
 
 void choosePosSuggest(int x,const string& word , string& guessedWord);
