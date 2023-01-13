@@ -23,7 +23,7 @@ static Mix_Chunk* sound_lose = NULL;
 
 const char fileName[] = "file10Topic.txt";
 
-//xet tu va chu de
+//set word and topic
 struct Topic{
     string nameTopic;
     string wordListTopic[40];
