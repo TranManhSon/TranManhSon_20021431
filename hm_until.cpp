@@ -20,6 +20,7 @@ using namespace std;
 
 void Topic::setNameTopic( string nameT ){
 	nameTopic = nameT;
+    // commit nay de merger
 }
 
 void Topic::setWordList( string  wordL, int i){
