@@ -19,7 +19,6 @@ using namespace std;
 //ad comment
 
 void Topic::setNameTopic( string nameT ){
-	nameTopic = nameT;
     // commit nay de merger
     // commit add
 }
