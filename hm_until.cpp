@@ -16,6 +16,8 @@
 
 using namespace std;
 
+//ad comment
+
 void Topic::setNameTopic( string nameT ){
 	nameTopic = nameT;
 }
